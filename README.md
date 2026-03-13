@@ -51,6 +51,6 @@ Result : AI wins
 
 ## Author
 
-Halima Htalal
-Informatik Student – Germany
+HTALAL Mohamed Rayan
+Engeneering Student - ENSAM University 
 
