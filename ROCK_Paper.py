@@ -62,3 +62,6 @@ def main():
 
 
 main()
+
+
+git remote add origin https://github.com/SHR2006acc/rock-paper-scissors-python.git
